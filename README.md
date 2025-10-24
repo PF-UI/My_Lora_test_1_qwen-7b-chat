@@ -21,7 +21,7 @@
 
 ### 2. 安装依赖
 ```bash
-pip install langchain-openai tqdm
+
 ```
 
 
@@ -35,7 +35,7 @@ pip install langchain-openai tqdm
 
 ### 4. 运行脚本
 ```bash
-python character_dataset_gen.py
+
 ```
 
 
